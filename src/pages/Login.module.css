@@ -1,0 +1,44 @@
+.section{
+    display: flex;
+    background-color: white;
+    max-width: 30rem;
+    width: 90%;
+    margin: 2rem auto;
+    border-radius: 14px;
+}
+
+.section input {
+    width: 60%;
+    padding: 12px 20px;
+    margin: 25px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .section label {
+    font-weight: bold;
+    margin-right: 1rem;
+  }
+
+  .section h3 {
+    font-weight: bold;
+    margin-left: 10rem;
+  }
+
+.section button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 30px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+.section div {
+    text-align: center;
+  }
+
